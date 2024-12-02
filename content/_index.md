@@ -1,9 +1,7 @@
 ---
-title: My Site
+title: QA Tricks
 toc: false
 ---
-
-This is the landing page.
 
 ## Explore
 
@@ -12,6 +10,3 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
