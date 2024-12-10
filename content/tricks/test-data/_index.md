@@ -1,5 +1,5 @@
 ---
-title: Test data
+title: Test Data
 type: docs
 sidebar:
   open: true

@@ -1,4 +1,10 @@
-
+---
+title: File upload test cases
+description: "A comprehensive list test cases for file upload functionality. Improve your testing strategies with these essential examples."
+keywords: ["file upload", "manual testing", "date validation", "test cases for file upload"]
+type: docs
+prev: docs/folder/
+---
 
 ##### 1. File size validation
 Verify that file upload is restricting resource consumption. You can create a file with the size you want via command-line.

@@ -1,5 +1,5 @@
 ---
-title: Test cases
+title: Web Application Test Cases
 type: docs
 sidebar:
   open: true
