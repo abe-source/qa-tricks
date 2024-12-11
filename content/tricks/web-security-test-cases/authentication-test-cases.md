@@ -9,5 +9,5 @@ prev: docs/folder/
 
 ### Test Cases:
 
-###### 1. Verify if cookies, jwt tokens has expiration date and it is correctly validated
-###### 2. Verify if user logged out his cookie / token has been deleted from back end
+###### 1. Ensure that upon user logout, their cookies or tokens are properly invalidated and deleted from the backend to prevent unauthorized access.
+###### 2. Verify that cookies and JWT tokens have an expiration date and that expiration is appropriately validated.
