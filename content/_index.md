@@ -3,10 +3,10 @@ title: QA Tricks
 toc: false
 ---
 
-## Explore
+![](hero-img.jpg)
 
 {{< cards >}}
-  {{< card link="tricks" title="Tricks" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="tricks" title="Tricks" icon="lightning-bolt" >}}
+  {{< card link="blog" title="Blog" icon="book-open" >}}
 {{< /cards >}}
 
